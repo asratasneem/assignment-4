@@ -12,8 +12,11 @@
 
 ## Dependencies
 -Pandas.
+
 -gzip.
+
 -Numpy.
+
 -bz2 (This module offers a complete set of tools for compressing and decompressing data using the bzip2 compression algorithm).
 
 
